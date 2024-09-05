@@ -1,0 +1,12 @@
+Package: montyhall
+Title: MontyHall Game 100 doors Version
+Version: 0.0.0.9000
+Authors@R: 
+    person("Farhana", "Urni", , "furni@asu.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: "This package determines the winning strategy of Montyhall Game by swithing or staying the door by Contestants."
+Depends:  dplyr
+License: use_mit_license()
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
